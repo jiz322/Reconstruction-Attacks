@@ -16,6 +16,7 @@ A well-trained machine learning model contains information of training data. If 
 Image in Training Set             |  Reconstructed Result
 :-------------------------:|:-------------------------:
 ![](https://github.com/jiz322/Reconstruction-Attacks/blob/main/examples/exmaple_real_image.png) |  ![](https://github.com/jiz322/Reconstruction-Attacks/blob/main/examples/exmaple_result_gan.png)
+![](https://github.com/jiz322/Reconstruction-Attacks/blob/main/examples/exmaple2_result_gan.png) |  ![](https://github.com/jiz322/Reconstruction-Attacks/blob/main/examples/exmaple2_real_image.png)
 
 
 
