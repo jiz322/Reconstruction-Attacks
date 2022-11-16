@@ -10,7 +10,7 @@ A well-trained machine learning model contains information of training data. If 
 
 * GAN
 
-* Fine-tuning Diffusion
+* Fine-tuning Diffusion (ongoing)
 
 ## Result Using GAN
 Images in the Training Set             |  Reconstructed Result
