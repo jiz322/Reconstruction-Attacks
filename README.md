@@ -4,7 +4,7 @@
 [olivetti_faces](https://www.kaggle.com/code/serkanpeldek/face-recognition-on-olivetti-dataset)
 
 ## Motivation
-A well-trained machine learning model contains information of training data. If this model is disclosed to malicous users, they can retrieve these information which results in privacy leakage. By attacking a very simple face-recognizion model, we want a better understanding of this "Reconstruction Attack." 
+A well-trained machine learning model contains information of training data. If this model is disclosed to malicous users, they can retrieve these information which results in privacy leakage. By attacking a very simple face-recognizion model, we aim for a better understanding of this "Reconstruction Attack." 
 
 ## Methods
 
