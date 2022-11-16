@@ -8,7 +8,7 @@ A well-trained machine learning model contains information of training data. If 
 
 ## Methods
 
-* Generative adversarial network (GAN)
+* Generative adversarial network
 
 * Diffusion model fine-tuning (ongoing)
 
