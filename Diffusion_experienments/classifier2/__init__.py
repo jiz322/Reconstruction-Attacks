@@ -1,0 +1,1 @@
+from .classifier2 import FaceRecognizer2
